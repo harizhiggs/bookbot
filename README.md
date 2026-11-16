@@ -1,6 +1,8 @@
 # bookbot
 BookBot is my a python project as part of [Boot.dev](https://www.boot.dev)'s Data Analyst Accreditation.
 
+![terminal output after running bookbot on a txt file of Moby Dick.](bookbot_mobydickt_screenshot.png)
+
 **Table of Contents**
 
 - [Execution / Usage](#execution--usage)
